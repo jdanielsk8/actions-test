@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Print Hello
-        run: echo "${HELLLO}", world jdanielsk8!
+        run: echo "${HELLLO}", world!
